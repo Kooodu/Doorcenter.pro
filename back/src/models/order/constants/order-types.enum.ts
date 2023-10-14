@@ -1,5 +1,0 @@
-export enum OrderTypes {
-  DELIVERY = 'DELIVERY',
-  REGION_DELIVERY = 'REGION_DELIVERY',
-  PICKUP = 'PICKUP',
-}
